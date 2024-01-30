@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Kinga
-- I am currently a third-year student in the field of technical computer science at AGH University. 
+- I am currently a fourth-year student in the field of technical computer science at AGH University. 
 - Now I am working in C#.
 
 <!---
